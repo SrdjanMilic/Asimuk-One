@@ -6,4 +6,4 @@ There is a dummy data inserted, so you can see how every content element fits up
 
 This has been done 6-7 years ago...
 
-[http://188.166.11.99/asimuk-one](http://188.166.11.99/asimuk-one){:target="_blank"}
+[http://188.166.11.99/asimuk-one](http://188.166.11.99/asimuk-one)
